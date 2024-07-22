@@ -1,0 +1,158 @@
+
+nav{
+    font-size: medium;
+    word-spacing: 30px;
+    position: fixed;
+    background-color: white;
+    opacity: 80%;
+    display: flex;
+    text-align: center;
+    padding-left: 25vh;
+       
+}
+
+.div1{
+    background-color: whitesmoke;
+}
+.div1 button{
+    background: none;
+    color: blue;
+    border-color: blue;
+    border-radius: 5em;
+    font-size: larger;
+    border-style: solid;
+    height: 7vh;
+    width: 12vh;
+    cursor: pointer;
+    
+}
+.div1 button:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+.div2{
+    background-color: whitesmoke;   
+}
+.div2 h1{
+    font-size: 10vh;
+}
+.div2 h4{
+    font-size: 5vh;
+}
+
+.div2 input{
+    background-color: blue;
+    color:white;
+    border-color: blue;
+    border-radius: 5em;
+    font-size: larger;
+    border-style: solid;
+    height: 7vh;
+    width: 20vh;
+    cursor: pointer;
+}
+
+
+.div3{
+    background-color: black;
+    color: white;
+}
+.div3 h1{
+    font-size: 10vh;
+}
+.div3 h4{
+    font-size: 5vh;
+}
+.div3 input{
+    background-color: blue;
+    color:white;
+    border-color: blue;
+    border-radius: 5em;
+    font-size: larger;
+    border-style: solid;
+    height: 7vh;
+    width: 25vh;
+    cursor: pointer;
+}
+
+
+.div4{
+    display: flex;
+    padding: 2%;
+}
+
+.div4 input{
+    background-color: blue;
+    color:white;
+    border-color: blue;
+    border-radius: 5em;
+    font-size: larger;
+    border-style: solid;
+    height: 7vh;
+    width: 25vh;
+    cursor: pointer;
+}
+.div41a{
+    background-color:rgb(233, 118, 10);
+}
+.div42b{
+    background-color: whitesmoke;
+}
+
+
+.div5{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+
+.div5 input{
+    background-color: blue;
+    color:white;
+    border-color: blue;
+    border-radius: 5em;
+    font-size: larger;
+    border-style: solid;
+    height: 7vh;
+    width: 25vh;
+    cursor: pointer;
+}
+
+
+.div6{
+    display: flex;
+    background-color: whitesmoke;
+    padding: 5%;
+}
+
+.div6 input{
+    background-color: blue;
+    color:white;
+    border-color: blue;
+    border-radius: 5em;
+    font-size: larger;
+    border-style: solid;
+    height: 7vh;
+    width: 25vh;
+    cursor: pointer; 
+}
+
+.div7{
+    width: 1000px;
+}
+
+
+.div8{
+    width: 1000px;
+    background-color: whitesmoke;
+    
+}
+.div9{
+    display: flex;
+    background-color: whitesmoke;
+    justify-content: center;
+    
+}
